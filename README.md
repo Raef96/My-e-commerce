@@ -40,10 +40,10 @@ python manage.py runserver
 
 ## Here some captures
 
-##Home
+## Home
 ![alt text](https://github.com/Raef96/My-e-commerce/blob/master/captures/Capture.PNG?raw=true)
 
-##Checkout
+## Checkout
 ![alt text](https://github.com/Raef96/My-e-commerce/blob/master/captures/Capture2.PNG?raw=true)
 
 
