@@ -50,7 +50,8 @@ python manage.py runserver
 ![alt text](https://github.com/Raef96/My-e-commerce/blob/master/captures/Capture3.PNG?raw=true)
 
 ![alt text](https://github.com/Raef96/My-e-commerce/blob/master/captures/Capture4.PNG?raw=true)
-##
+
+## Sign In and Sign Out
 
 ![alt text](https://github.com/Raef96/My-e-commerce/blob/master/captures/Capture5.PNG?raw=true)
 
