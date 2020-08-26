@@ -38,3 +38,18 @@ Now you can run the project with this command
 python manage.py runserver
 ```
 
+## Here some captures
+
+
+![alt text](https://github.com/Raef96/My-e-commerce/blob/master/captures/Capture.PNG?raw=true)
+
+![alt text](https://github.com/Raef96/My-e-commerce/blob/master/captures/Capture2.PNG?raw=true)
+
+![alt text](https://github.com/Raef96/My-e-commerce/blob/master/captures/Capture3.PNG?raw=true)
+
+![alt text](https://github.com/Raef96/My-e-commerce/blob/master/captures/Capture4.PNG?raw=true)
+
+![alt text](https://github.com/Raef96/My-e-commerce/blob/master/captures/Capture5.PNG?raw=true)
+
+![alt text](https://github.com/Raef96/My-e-commerce/blob/master/captures/Capture6.PNG?raw=true)
+
